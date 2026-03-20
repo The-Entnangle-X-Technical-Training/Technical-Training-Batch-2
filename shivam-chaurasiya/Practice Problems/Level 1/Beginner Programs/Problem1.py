@@ -1,14 +1,14 @@
 # Problem 1: Variable Update and Display
 # Write a program that declares an integer variable with initial value 10, updates it to 20, then adds 5 to it, then multiplies by 2, and prints the value after each update.
 
-var = 10
-print(f'Varible: {var}')
+vari = 10
+print(f'Varible: {vari}')
 
-var = 20
-print(f'Updated Variable: {var}')
+vari = 20
+print(f'Updated Variable: {vari}')
 
-var = var+5
-print(f'After Adding 5: {var}')
+vari = vari+5
+print(f'After Adding 5: {vari}')
 
-var = var * 2
+vari = vari * 2
 print(f'After multiply by 2: {var}')
