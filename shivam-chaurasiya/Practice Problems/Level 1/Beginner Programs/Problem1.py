@@ -7,8 +7,8 @@ print(f'Varible: {var}')
 var = 20
 print(f'Updated Variable: {var}')
 
-var = var+5
+var += 5
 print(f'After Adding 5: {var}')
 
-var = var * 2
+var *= 2
 print(f'After multiply by 2: {var}')
