@@ -5,4 +5,5 @@ last = num % 10
 num = num //10
 first = num % 10
 rev = last * 10 + first
-print(rev)
+print("\n-:--------------------:-\n")
+print("\tReverse of",num_org,"is :",rev)
