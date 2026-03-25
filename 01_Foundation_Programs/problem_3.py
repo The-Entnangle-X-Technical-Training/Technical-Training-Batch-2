@@ -1,0 +1,9 @@
+num1 = int(input("Enter First Number : "))
+num2 = int(input("Enter Second Number : "))
+print("\nBefore SWAP :-")
+print("\t\tNum_1 is ",num1,"and Num_2 is",num2)
+temp =num1
+num1 = num2
+num2 =temp
+print("\nAfter SWAP :-")
+print("\t\tNum_1 is ",num1,"and Num_2 is",num2)

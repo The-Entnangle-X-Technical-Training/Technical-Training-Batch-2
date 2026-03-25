@@ -1,0 +1,5 @@
+num1 = int(input("Enter First Number : "))
+num2 = int(input("Enter Second Number : "))
+num3 = int(input("Enter Third Number : "))
+print("\nSum of",num1,"and",num2,"and",num3,"is :",num1+num2+num3)
+print("Average of",num1,"and",num2,"and",num3,"is :",(num1+num2+num3)/3)
