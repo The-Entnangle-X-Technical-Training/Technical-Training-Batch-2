@@ -1,5 +1,4 @@
-problem18 = 'hello 18th problem'
-print(problem18)#  Average of Marks in 5 Subjects
+#  Average of Marks in 5 Subjects
 
 math = int(input('Enter math marks : '))
 eng = int(input('Enter English marks : '))
