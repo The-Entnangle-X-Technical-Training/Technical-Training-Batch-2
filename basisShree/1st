@@ -1,0 +1,8 @@
+num = 10
+print("Initial vslue =" , num)
+num = 20
+print("Updated value =" ,num)
+num = num + 5
+print("After addition value =" ,num)
+num =num*2
+print("final value =" ,num)
